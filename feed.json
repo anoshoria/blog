@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "anoshoria",
+    "description": "",
+    "home_page_url": "https://anoshoria.github.io/blog",
+    "feed_url": "https://anoshoria.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://anoshoria.github.io/blog/pst-azmyshy.html",
+            "url": "https://anoshoria.github.io/blog/pst-azmyshy.html",
+            "title": "پست آزمایشی",
+            "summary": "متن آزمایشی",
+            "content_html": "<p class=\"align-right\">متن آزمایشی</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-05T02:29:56+03:30",
+            "date_modified": "2025-09-05T02:29:56+03:30"
+        }
+    ]
+}
