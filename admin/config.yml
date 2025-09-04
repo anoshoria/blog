@@ -1,7 +1,10 @@
 backend:
-  name: github
-  repo: yourusername/blog
-  branch: main
+  # گام 3 دو مسیرِ احراز هویت دارد: A ساده (پیشنهادی) یا B فقط گیت‌هاب
+  # فعلاً خالی بگذار؛ در گام 3 یکی از این دو را قرار می‌دهیم.
+  # name: git-gateway    # مسیر A
+  # name: github         # مسیر B
+  # repo: YOUR-USER/YOUR-REPO
+  # branch: main
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
