@@ -3,30 +3,10 @@
     <title>anoshoria</title>
     <link href="https://anoshoria.github.io/blog/feed.xml" rel="self" />
     <link href="https://anoshoria.github.io/blog" />
-    <updated>2025-09-05T02:29:56+03:30</updated>
+    <updated>1970-01-01T03:30:00+03:30</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://anoshoria.github.io/blog</id>
 
-    <entry>
-        <title>پست آزمایشی</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://anoshoria.github.io/blog/pst-azmyshy.html"/>
-        <id>https://anoshoria.github.io/blog/pst-azmyshy.html</id>
-
-        <updated>2025-09-05T02:29:56+03:30</updated>
-            <summary>
-                <![CDATA[
-                    متن آزمایشی
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-right">متن آزمایشی</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
